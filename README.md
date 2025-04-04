@@ -28,12 +28,12 @@ Modular architecture supports sprite direction logic and pop-up interactions.
 [View Project](https://github.com/lydialiu2003/pikmin-pal)
 
 ---
-
 ### 🍽️ AnchorDine
-**Tech:** React, JavaScript, Firebase, Python  
-Developed a real-time dining feedback platform for Vanderbilt students.  
-Integrated Firebase Auth and Firestore for secure login and meal data storage scraped from campus sites.  
+**Tech:** React, JavaScript, Firebase Python
+Helped develop a real-time dining feedback platform for Vanderblt students.
+Integrated Firebase Auth and Firestore for secure login and meal data storage scraped from campus sites
 [View Project](https://github.com/ehsu01/AnchorDine)
+
 ---
 
 ### 🏡 House Price Prediction
@@ -58,8 +58,6 @@ An interactive web application designed to analyze and visualize patterns of dis
 - **Data Visualization:** Presents complex datasets in an intuitive and interactive manner.
 - **User-Friendly Interface:** Designed with a focus on accessibility and ease of use.
 - **Scalability:** Built to handle large datasets efficiently.
-
-![Project Screenshot](path_to_screenshot_image)
 
 *Explore the [live application](https://disruptment-discernment-radar-11c0a08ec879.herokuapp.com) and visit the [GitHub repository](https://github.com/lydialiu2003/disruptment-discernment-radar) for more details and source code.*
 
