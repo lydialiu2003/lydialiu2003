@@ -31,7 +31,6 @@
 - **Email:** [lydia.x.liu@vanderbilt.edu](mailto:lydia.x.liu@vanderbilt.edu)
 - **GitHub:** [github.com/lydialiu2003](https://github.com/lydialiu2003)
 
-![Lydia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lydialiu&show_icons=true&theme=default)
 
 ---
 
